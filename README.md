@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Faisal Javid
 - 👀 I’m interested in AOSProjects
 - 🌱 I’m currently learning Custom Rom building
-- 💞️ I’m looking to collaborate on AOSprojects
+- 💞️ I’m looking to collaborate on AOSProjects
 - 📫 How to reach me https://t.me/Faisalljavid
 
 <!---
